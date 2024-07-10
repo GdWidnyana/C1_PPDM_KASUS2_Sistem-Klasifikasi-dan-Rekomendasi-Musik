@@ -1,0 +1,3 @@
+Link dataset file audio : https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification
+
+Link dataset music (tabular) : https://www.kaggle.com/datasets/sashankpillai/spotify-top-200-charts-20202021?select=spotify_dataset.csv
