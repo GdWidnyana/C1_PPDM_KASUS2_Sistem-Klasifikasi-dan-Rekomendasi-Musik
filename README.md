@@ -9,7 +9,6 @@ Fakultas		  : FMIPA
 Universitas		: Universitas Udayana 
 
 Tahun Ajaran	: 2023/2024
-
 ==============================================================
 
 Deskripsi Tugas:
