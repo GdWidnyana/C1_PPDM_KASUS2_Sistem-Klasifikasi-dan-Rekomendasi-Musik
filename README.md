@@ -1,9 +1,15 @@
 Penyelesaian Kasus 2 – [Sistem Rekomendasi Musik Berbasis Konten Menggunakan Algoritma Recurrent Neural Network (RNN) dan Cosine Similarity dengan Ekstraksi Fitur Mel Frequency Cepstral Coefficient (MFCC)] 
+
 Mata Kuliah		: Pengantar Pemrosesan Data Multimedia
+
 Program Studi	: Informatika 
+
 Fakultas		  : FMIPA 
+
 Universitas		: Universitas Udayana 
+
 Tahun Ajaran	: 2023/2024
+
 ==============================================================
 
 Deskripsi Tugas:
@@ -25,5 +31,8 @@ Pengampu Mata Kuliah:
 Dr. AAIN Eka Karyawati, S.Si., M.Eng. 
 
 https://udayananetworking.unud.ac.id/lecturer/2372-anak-agung-istri-ngurah-eka-karyawati
+
+Interface Sistem :![Screenshot 2024-07-10 230607](https://github.com/user-attachments/assets/10ba1ee3-00d5-4dfe-bbbc-2b713ff2b4b8)
+
 
 Supporting by Lab Ergonomic Computing PS Informatika FMIPA Unud https://if.unud.ac.id/
